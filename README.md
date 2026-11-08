@@ -19,11 +19,11 @@ Mobile and web engineer with 2+ years of production experience shipping Flutter,
 
 I'm a mobile-first engineer currently building production apps at **dSMART Solutions** in Karachi, Pakistan. My work spans the full delivery cycle — turning Figma designs into pixel-accurate Flutter and Angular UIs, wiring up REST APIs and Google Maps for location-based features, and shipping admin panels that keep everything manageable on the backend.
 
-- 🏢 Working full-time as a **Mobile App Developer** at dSMART Solutions *(Feb 2024 – Present)*
-- 🎓 Currently pursuing an **Associate Degree in Software Engineering** at Ilma University, Karachi
-- 🧩 Comfortable owning a feature end-to-end — client requirement → UI/UX → API integration → deployment
-- 🤖 Use AI-assisted tooling (Claude, Cursor) to accelerate debugging and boilerplate, while writing and reviewing the underlying logic personally
-- 📍 Based in Karachi, Pakistan
+- Working full-time as a **Mobile App Developer** at dSMART Solutions *(Feb 2024 – june 2026)*
+- Currently pursuing an **Associate Degree in Software Engineering** at Ilma University, Karachi
+- Comfortable owning a feature end-to-end — client requirement → UI/UX → API integration → deployment
+- Use AI-assisted tooling (Claude, Cursor) to accelerate debugging and boilerplate, while writing and reviewing the underlying logic personally
+- Based in Karachi, Pakistan
 
 <br>
 
@@ -120,7 +120,7 @@ Laravel Blade templating, WordPress themes/plugins/widgets
 
 ## Certifications
 
-- 🏅 Participation, Techwiz 3 — Aptech Computer Education, Karachi
+- Participation, Techwiz 3 — Aptech Computer Education, Karachi
 
 <br>
 
@@ -141,7 +141,7 @@ Laravel Blade templating, WordPress themes/plugins/widgets
 
 <div align="center">
 
-📧 **junaidkhanzada272@gmail.com** &nbsp;·&nbsp; 📱 **+92-370-0290153** &nbsp;·&nbsp; 🌐 **[Portfolio](https://portfolio-web-pi-six.vercel.app/)** &nbsp;·&nbsp; 💼 **[LinkedIn](https://linkedin.com/in/junaid-khan-4131892a9)**
+**junaidkhanzada272@gmail.com** &nbsp;·&nbsp; **+92-370-0290153** &nbsp;·&nbsp; **[Portfolio](https://portfolio-web-pi-six.vercel.app/)** &nbsp;·&nbsp; **[LinkedIn](https://linkedin.com/in/junaid-khan-4131892a9)**
 
 *References available on request.*
 
