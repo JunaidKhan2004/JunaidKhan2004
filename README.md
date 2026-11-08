@@ -124,19 +124,6 @@ Laravel Blade templating, WordPress themes/plugins/widgets
 
 <br>
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=JunaidKhan2004&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunaidKhan2004&layout=compact&hide_border=true" />
-
-</div>
-
-> Replace `JunaidKhan2004` above with your actual GitHub username to activate the live stats cards.
-
-<br>
-
 ## Let's Connect
 
 <div align="center">
