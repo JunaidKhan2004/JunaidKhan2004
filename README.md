@@ -128,8 +128,8 @@ Laravel Blade templating, WordPress themes/plugins/widgets
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=junaidkhan2004&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidkhan2004&layout=compact&hide_border=true" />
 
 </div>
 
