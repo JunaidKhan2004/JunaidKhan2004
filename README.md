@@ -113,7 +113,7 @@ Laravel Blade templating, WordPress themes/plugins/widgets
 | Program | Institution | Duration |
 |---|---|---|
 | Associate Degree in Software Engineering (ADP-SE) | Ilma University, Karachi | Aug 2025 – Present |
-| Advance Diploma in Software Engineering (ACCP Prime) | Aptech Computer Education, Karachi | Aug 2022 – 2024 |
+| Advance Diploma in Software Engineering (ACCP Prime) | Aptech Computer Education, Karachi | Aug 2022 – 2025 |
 | Intermediate | Jinnah Government College, Karachi | 2022 – 2024 |
 
 <br>
