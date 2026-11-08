@@ -6,7 +6,7 @@
 
 Mobile and web engineer with 2+ years of production experience shipping Flutter, Laravel, Angular, and Ionic applications end-to-end — from Figma prototype to REST API integration, Google Maps/location features, and live deployment.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-web-pi-six.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9098c0?style=for-the-badge&logo=vercel&logoColor=white)](https://imjunaidkhan.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/junaid-khan-4131892a9)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junaidkhanzada272@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923700290153)
