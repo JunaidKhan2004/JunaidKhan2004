@@ -84,7 +84,7 @@ Laravel Blade templating, WordPress themes/plugins/widgets
 ## Professional Experience
 
 ### Mobile App Developer — dSMART Solutions
-**Karachi, Pakistan · February 2024 – Present**
+**Karachi, Pakistan · February 2024 – june 2026**
 
 <br>
 
@@ -133,7 +133,7 @@ Laravel Blade templating, WordPress themes/plugins/widgets
 
 </div>
 
-> Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username to activate the live stats cards.
+> Replace `junaidkhan2004` above with your actual GitHub username to activate the live stats cards.
 
 <br>
 
@@ -141,7 +141,7 @@ Laravel Blade templating, WordPress themes/plugins/widgets
 
 <div align="center">
 
-**junaidkhanzada272@gmail.com** &nbsp;·&nbsp; **+92-370-0290153** &nbsp;·&nbsp; **[Portfolio](https://portfolio-web-pi-six.vercel.app/)** &nbsp;·&nbsp; **[LinkedIn](https://linkedin.com/in/junaid-khan-4131892a9)**
+**junaidkhanzada272@gmail.com** &nbsp;·&nbsp; **+92-370-0290153** &nbsp;·&nbsp; **[Portfolio](https://imjunaidkhan.vercel.app/)** &nbsp;·&nbsp; **[LinkedIn](https://linkedin.com/in/junaid-khan-4131892a9)**
 
 *References available on request.*
 
